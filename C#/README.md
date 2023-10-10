@@ -26,6 +26,8 @@ Object-Oriented: C# is an object-oriented programming (OOP) language, which mean
 
 Type-Safe: C# is a statically typed language, which means variable types are checked at compile-time, reducing runtime errors.
 
+C# (pronounced "See Sharp") is a modern, object-oriented, and type-safe programming language. C# enables developers to build many types of secure and robust applications that run in .NET. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers.
+
 C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.
 
 C# is used to develop web apps, desktop apps, mobile apps, games and much more.
